@@ -18,7 +18,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=koushikeya-vadika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=koushikeya-vadika&icon=0&color=7)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=koushikeya-vadika&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitors" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,111 +1,24 @@
-# Hi 👋, I'm Koushikeya Vadika
+# 💫 About Me:
+🔭 I’m currently working on<br>Machine Learning Projects using Python and Scikit-Learn<br><br>👯 I’m looking to collaborate on<br>Python, Machine Learning, and Open Source Projects<br><br>🤝 I’m looking for help with<br>Cloud Computing, AWS, and DevOps<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Machine Learning, and AWS Cloud<br><br>💬 Ask me about<br>Python, Flask, Machine Learning, GitHub, and Web Development<br><br>⚡ Fun fact<br>I turn coffee ☕ and bugs 🐛 into Python code 🐍
 
-### 🎓 B.Tech CSE Student | 🐍 Python Developer | 🤖 Machine Learning | ☁️ Cloud Computing | 🧩 DSA Learner
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=koushikeya-vadika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushikeya-vadika-323809334/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koushikeyav@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=koushikeya-vadika&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=koushikeya-vadika&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=koushikeya-vadika&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* 🔭 Currently working on **Machine Learning projects using Python and Scikit-Learn**
-* 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, and Cloud Computing (AWS)**
-* 👯 Looking to collaborate on **Python, Machine Learning, and Open Source projects**
-* 🤝 Looking for guidance in **Cloud Computing, DevOps, and Advanced Machine Learning**
-* 💬 Ask me about **Python, Flask, Machine Learning, GitHub, and Web Development**
-* 📫 Reach me at **[koushikeyav@gmail.com](mailto:koushikeyav@gmail.com)**
-* 🌐 Portfolio: **[koushikeyav-portfolio.lovable.app](https://koushikeyav-portfolio.lovable.app/)**
-* ⚡ Fun fact: **I turn coffee ☕ and bugs 🐛 into Python code 🐍**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/koushikeya-vadika" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/koushikeyav" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/koushikeya/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=koushikeya-vadika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=koushikeya-vadika&icon=0&color=7)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,c,javascript" /></p>
-
-**Web Development**
-<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" /></p>
-
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>
-
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,aws" /></p>
-
-**Machine Learning**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas" /></p>
-
----
-
-## 💼 Featured Projects
-
-### 📚 [Timetable Scheduling System](#)
-Flask-based automated timetable generator built with Google OR-Tools CP-SAT Solver.
-
-### 🛣️ [Road Condition Monitoring](#)
-Machine learning project that classifies road conditions using image processing and computer vision.
-
-### 🗣️ [Text-to-Speech Application](#)
-Python desktop app built with Tkinter and pyttsx3 that converts text into speech.
-
-> Replace the `#` links above with the actual repo URLs for each project.
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=koushikeya-vadika&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=koushikeya-vadika&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikeya-vadika&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushikeya-vadika&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-[![Koushikeya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushikeya-vadika&theme=tokyo-night)](https://github.com/koushikeya-vadika)
-
----
-
-## 🎯 Current Goals
-
-* Master Data Structures & Algorithms
-* Build real-world Machine Learning projects
-* Learn AWS Cloud fundamentals
-* Contribute to open source projects
-* Strengthen software development skills
-
----
-
-### ⭐ Thanks for visiting my profile — if you like my work, consider starring my repositories!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

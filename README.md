@@ -51,6 +51,12 @@ I turn coffee ☕ and bugs 🐛 into Python code 🐍
 ![Stars](https://img.shields.io/github/stars/koushikeya-vadika?style=for-the-badge&logo=github&color=e3b341&label=Stars)
 ![Followers](https://img.shields.io/github/followers/koushikeya-vadika?style=for-the-badge&logo=github&color=1f6feb&label=Followers)
 
+# 📈 Contribution Graph:
+[![Koushikeya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushikeya-vadika&theme=react-dark)](https://github.com/koushikeya-vadika)
+
+# 🚀 Contribution Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=koushikeya-vadika&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=koushikeya-vadika&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 

@@ -82,9 +82,7 @@ I turn coffee ☕ and bugs 🐛 into Python code 🐍
 
 ## 🧠 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikeya-vadika&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-> ⚠️ This badge runs on the same *shared* free `github-readme-stats.vercel.app` service (same family as the activity graph you fixed earlier) — it can 402 the same way. If it goes down, fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own instance exactly like you did for the activity graph, then swap this URL for your own domain.
+[![Top Langs](https://github-readme-activity-graph-r4h5.vercel.app/api/top-langs/?username=koushikeya-vadika&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

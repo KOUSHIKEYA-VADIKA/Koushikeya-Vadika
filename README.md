@@ -47,17 +47,12 @@ I turn coffee ☕ and bugs 🐛 into Python code 🐍
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=koushikeya-vadika&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=koushikeya-vadika&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikeya-vadika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Public Repos](https://img.shields.io/github/repos/public/koushikeya-vadika?style=for-the-badge&logo=github&color=238636&label=Repositories)
+![Stars](https://img.shields.io/github/stars/koushikeya-vadika?style=for-the-badge&logo=github&color=e3b341&label=Stars)
+![Followers](https://img.shields.io/github/followers/koushikeya-vadika?style=for-the-badge&logo=github&color=1f6feb&label=Followers)
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=koushikeya-vadika&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-# 📈 Contribution Summary:
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushikeya-vadika&theme=solarized_dark)
 
 # 🎯 Current Goals:
 - Master Data Structures & Algorithms

@@ -84,7 +84,6 @@ I turn coffee ☕ and bugs 🐛 into Python code 🐍
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikeya-vadika&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-> ⚠️ Temporary: this is back on the shared public service for now (can 402 like before). Once you deploy your own `github-readme-stats` instance correctly, swap this URL for your own domain.
 
 ---
 

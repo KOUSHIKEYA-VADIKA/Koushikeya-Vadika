@@ -1,7 +1,7 @@
 # Hi 👋, I'm Koushikeya Vadika
 
 ### 🚀 B.Tech CSE Student | Python Developer | Machine Learning | Cloud Computing | DSA Learner
-
+ 
 💡 Passionate about Python, Machine Learning, and Cloud Computing.<br>
 📚 Currently learning Data Structures & Algorithms, AWS, and AI technologies.<br>
 🚀 Building projects, exploring emerging technologies, and continuously growing as a developer.

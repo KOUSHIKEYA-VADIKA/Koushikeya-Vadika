@@ -6,7 +6,7 @@
 📚 Currently learning Data Structures & Algorithms, AWS, and AI technologies.<br>
 🚀 Building projects, exploring emerging technologies, and continuously growing as a developer.
 
-🎯 **Focus Areas:** Python • Machine Learning • Cloud Computing • Open Source
+🎯 **Focus Areas:** Python • Machine Learning • Cloud Computing • Open Source 
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/koushikeya-vadika-323809334/) • [koushikeyav@gmail.com](mailto:koushikeyav@gmail.com)
 
